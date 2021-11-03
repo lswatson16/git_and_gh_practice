@@ -1,0 +1,4 @@
+walking
+hiking
+biking
+cooking
